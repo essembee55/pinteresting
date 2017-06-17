@@ -15,6 +15,7 @@ gem 'devise', '~>4.1.1'
 gem 'paperclip', '~>5.0'
 gem 'better_errors'
 gem 'binding_of_caller'
+gem 'aws-sdk', '< 2.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
